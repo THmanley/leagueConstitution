@@ -1,4 +1,4 @@
-# (League Name Here) Dynasty League Constitution #
+# Uncle Rico's Backyard Fantasty Football League Constitution #
 ## Table of Contents
 
 - [League Governence](#section-i---league-governence)
@@ -26,8 +26,8 @@
 ## __Section I - League Governence__ ##
 
 ### League Commissioner ###
-__Eli Manning__
-> (800) 588-2300
+__Troy Manley__
+> (847) 736-5359
 
 > 3LI@ManningFace.com
 
@@ -64,7 +64,7 @@ The commissioner is the final authority on all league matters, excluding dispute
 In order to change an existing rule, add a new rule, or change a scoring setting, a vote must be called and receive a majority (in a tie the commissioner has the tiebreaking vote), the commissioner has the option to veto a rule change in which case it can be voted on again and receive a 2/3 majority to pass without commissioner consent.
 <br>
 ### Collusion ###
-**Collusion will not be tolerated. A trade will be vetoed if there is evident collusion and the guilty teams will be removed from the league and forfeit any dues paid**
+**Collusion will not be tolerated. A trade will be vetoed if there is evident collusion and the guilty teams will be barred from playoffs and forfeit any dues paid for the season**
 
 <br><br>
 
@@ -77,7 +77,8 @@ In order to change an existing rule, add a new rule, or change a scoring setting
 ### Yearly Dues ###
 
 - After the first year there is a yearly total of $50 that must be paid 2 weeks before the start of the yearly rookie draft.
-- Dues must also be paid for any year a team trades draft picks in.
+- Due for the 2nd league year are due by week 5 of the regular season.
+- Starting from the beginning of the second year, which had been paid for by week 5 of the start up season, the $50 dues will be paying for your entry in the following season. 
 
 ### Penalties ###
 If a team does not pay their dues by the designated date they are not eligible to participate in the draft (startup or rookie) it will be up to the commissioners discretion on whether or not to replace them.
@@ -85,11 +86,9 @@ If a team does not pay their dues by the designated date they are not eligible t
 <br><br>
 
 ## __Section III - Payout__ ##
-- 1st Place: $450 (75%)
-- 2nd Place: $75 (12.5%)
-- 3rd Place: $50 (8.34%)
-
-Additionally $25 (4.16%) will be rolled over each year into a side pot that will be awarded to the first team to win back to back championships.
+- 1st Place: $375 
+- 2nd Place: $175 
+- 3rd Place: $50 
 
 <br><br>
 
@@ -100,13 +99,13 @@ Additionally $25 (4.16%) will be rolled over each year into a side pot that will
    -------- |--------- | -------
    QB | 1 | No Limit
    RB | 2 | No Limit
-   WR | 3 | No Limit
+   WR | 2 | No Limit
    TE | 1 | No Limit
    FLEX (RB/WR/TE) | 2 | No Limit
    D/ST | 1 | No Limit
    K | 1 | No Limit
-   BE | 16 | No Limit
-   IR | 3 | No Limit
+   BE | 10 | No Limit
+   IR | 1 | No Limit
 
 <br><br>
 
@@ -119,7 +118,7 @@ Additionally $25 (4.16%) will be rolled over each year into a side pot that will
 - Per transaction fee is $0
 - FAAB dollars are not tradeable
 - There is a two Day waiting period for waivers to clear
-- Free agency locks a week after the championship ends.
+- Free agency locks a week after the regular championship ends (NFL Week 16).
 
 
 ### Trades ###
@@ -127,12 +126,12 @@ Additionally $25 (4.16%) will be rolled over each year into a side pot that will
 - During the offseason trading is still allowed.
 - Trade deadline begins as soon as the first playoff game starts.
 - Draft picks up to 3 years in the future are tradable.
-- Teams must pay dues for any year they trade draft picks in.
+- Teams must pay dues for any year they trade draft picks in if not already paid by yearly advance.
 
 <br><br>
 
 ## __Section VI - Startup Draft__ ##
-- Will take place (Insert Date Here) on (Insert Platform Here).
+- Will take place (Insert Date Here) on Fleaflicker.
 - Snake format (1st to 12th then 12th to 1st).
 - Each day the draft will last from 9AM to 9PM with each team having 1 hour per pick.
 - Trading draft picks is allowed during the startup draft.
@@ -146,13 +145,11 @@ Additionally $25 (4.16%) will be rolled over each year into a side pot that will
 - The draft order for the rookie draft will be determined based on both regular and post-season results
 - Picks 1-6 will be assigned in inverse order of the regular season standings.
 - Picks 7-12 will be assigned in inverse order of the postseason standings
-- An additional pick (1.13) will be awarded to the winner of the consolation bracket
 
 ### Rookie Draft Settings ###
 - There will be 4 rounds of the rookie draft.
-- The rookie draft will take place the day immediately following the completion of the NFL draft.
+- The rookie draft will take place on a day determined following the completion of the NFL draft, prior to beginning of NFL Pre-Season.
 - The draft will follow a linear format just like the NFL draft (1.01 has 2.01, 3.01, 4.01 etc.)
-- Each day the draft will last from 9AM to 9PM with each team having 30 mins per pick.
 - Trading draft picks is allowed during the rookie draft
 - If a team misses their pick the best available player based on [these rankings](https://www.fantasypros.com/nfl/rankings/rookies.php) will be taken for them
 
@@ -164,29 +161,31 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
 
 ### Divisions ###
 
-- There will be four divisions that teams will be randomly assigned to upon joining the league.
-- Divisions will follow NFL division naming (North, South, East, West)
-- Divisions will not have any bearing on playoffs and winning a division only entitles the winner to a virtual badge and bragging rights
+- There will be four divisions that teams will be randomly assigned based on Conference (Mountain/Plains) upon joining the league.
+- Divisions will follow the following naming: Mountains East, Mountains West, Plains East, Plains West. 
 
 ### Regular Season Schedule ###
 - The regular season lasts from week 1 to week 13.
+- Teams will play their division rivals twice per season.
 - Teams will play their first and last two matches against the other teams in their division.
 - The rest of the matches will be randomly determined at the beginning of the season.
 - Playoffs begin week 14 with the championship game occuring week 16.
+
+### Division Realignment ###
+- Mountains and Plains Conference Divisions will be re-aligned following every season based on the final standings of the season prior. 
+- East Divisions will have the following teams: 1, 3, 5, 7
+- West Divisions will have the following teams: 2, 4, 6, 8
+- Teams will not switch between between conferences, just be realigned to the East/West divisions within. 
 
 <br><br>
 
 ## __Section IX - Playoffs__ ##
 
 ### Championship Bracket ###
-- The two teams with the best regular season records will be assigned to the top two seeds.
-- The next three teams will be assigned their playoff seeding spot based on regular season record.
+- The winner of each division will be awarded a play off birth (4 -teams total)
+- The 5th seed team will be the team with the best record that did not win their division. 
 - The final playoff spot will be awarded to the team with the highest points scored out of the remaining teams.
 
-### Consolation Bracket ###
-- Seeding will be determined by end of regular season standing for the 6 teams not in the Championship Bracket.
-- The winner of the consolation ladder will be awarded an extra pick at the end of the first round (1.13).
-- The consolation bracket has no bearing on draft order.
 
 <br><br>
 
