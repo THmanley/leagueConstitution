@@ -213,8 +213,8 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
       </tr>
       <tr>
         <td>Kicking</td>
-        <td>Each Extra Point Made (PAT)<br>Each Field Goal Made Per Yard <br>Field Goal Missed (FGM)</td>
-        <td>1<br>0.1 (10 Yards = 1 Point)<br>-1</td>
+        <td>Each Extra Point Made (PAT)<br>Each Field Goal Made Per Yard <br>Field Goal Missed (FGM)<br>Extra Points for Field Gold Made >59 yards</td>
+        <td>1<br>0.1 (10 Yards = 1 Point)<br>-1<br>1</td>
       </tr>
     </table>
 
