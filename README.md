@@ -29,7 +29,7 @@
 __Troy Manley__
 > (847) 736-5359
 
-> 3LI@ManningFace.com
+> BigTroyzinho@gmail.com
 
 <br>
 
@@ -73,11 +73,11 @@ In order to change an existing rule, add a new rule, or change a scoring setting
 ### Entry Fee ###
 - The Entry Fee for the league is $50 per team.
 - Must be paid at minimum 2 weeks before the draft (startup or rookie).
+- Dues for the 2nd league year are due by week 5 of the regular season ($50).
 
 ### Yearly Dues ###
 
 - After the first year there is a yearly total of $50 that must be paid 2 weeks before the start of the yearly rookie draft.
-- Due for the 2nd league year are due by week 5 of the regular season.
 - Starting from the beginning of the second year, which had been paid for by week 5 of the start up season, the $50 dues will be paying for your entry in the following season. 
 
 ### Penalties ###
@@ -101,7 +101,7 @@ If a team does not pay their dues by the designated date they are not eligible t
    RB | 2 | No Limit
    WR | 2 | No Limit
    TE | 1 | No Limit
-   FLEX (RB/WR/TE) | 2 | No Limit
+   FLEX (RB/WR/TE) | 1 | No Limit
    D/ST | 1 | No Limit
    K | 1 | No Limit
    BE | 10 | No Limit
@@ -124,7 +124,7 @@ If a team does not pay their dues by the designated date they are not eligible t
 ### Trades ###
 - Trades will be processed right away, if collusion is suspected the matter will be put to a vote.
 - During the offseason trading is still allowed.
-- Trade deadline begins as soon as the first playoff game starts.
+- Trade deadline begins at the end of NFL Week 17.
 - Draft picks up to 3 years in the future are tradable.
 - Teams must pay dues for any year they trade draft picks in if not already paid by yearly advance.
 
@@ -133,7 +133,6 @@ If a team does not pay their dues by the designated date they are not eligible t
 ## __Section VI - Startup Draft__ ##
 - Will take place (Insert Date Here) on Fleaflicker.
 - Snake format (1st to 12th then 12th to 1st).
-- Each day the draft will last from 9AM to 9PM with each team having 1 hour per pick.
 - Trading draft picks is allowed during the startup draft.
 - If a team misses their pick the best available player based on [these rankings](https://www.fantasypros.com/nfl/rankings/dynasty-overall.php) will be taken for them.
 
@@ -175,7 +174,7 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
 - Mountains and Plains Conference Divisions will be re-aligned following every season based on the final standings of the season prior. 
 - East Divisions will have the following teams: 1, 3, 5, 7
 - West Divisions will have the following teams: 2, 4, 6, 8
-- Teams will not switch between between conferences, just be realigned to the East/West divisions within. 
+- Teams will not switch between between conferences, just be realigned to the East/West divisions within each conference. 
 
 <br><br>
 
@@ -214,8 +213,8 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
       </tr>
       <tr>
         <td>Kicking</td>
-        <td>Each Extra Point Made (PAT)<br>Each Field Goal Made (0-39 Yard) (FG0)<br>Each Field Goal Made (40-49 Yard) (FG40)<br>Each Field Goal Made (50+)(FG50)<br>Field Goal Missed (FGM)</td>
-        <td>1<br>3<br>4<br>5<br>-1</td>
+        <td>Each Extra Point Made (PAT)<br>Each Field Goal Made Per Yard <br>Field Goal Missed (FGM)</td>
+        <td>1<br>0.1 (10 Yards = 1 Point)<br>-1</td>
       </tr>
     </table>
 
