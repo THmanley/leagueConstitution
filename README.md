@@ -175,7 +175,7 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
 - Divisions will follow the following naming: Mountains East, Mountains West, Plains East, Plains West. 
 
 ### Regular Season Schedule ###
-- The regular season lasts from week 1 to week 13.
+- The regular season lasts from NFL Regular Season week 1 to week 13.
 - Teams will play their division rivals twice per season.
 - Teams will play their first and last two matches against the other teams in their division.
 - The rest of the matches will be randomly determined at the beginning of the season.
@@ -192,7 +192,7 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
 ## __Section IX - Playoffs__ ##
 
 ### Championship Bracket ###
-- The winner of each division will be awarded a play off birth (4 -teams total)
+- The winner of each division will be awarded a play off birth and seeds determined by Overall Record.
 - The 5th seed team will be the team with the best record that did not win their division. 
 - The final playoff spot will be awarded to the team with the highest points scored out of the remaining teams.
 
@@ -227,5 +227,10 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
         <td>Each Extra Point Made (PAT)<br>Each Field Goal Made Per Yard <br>Field Goal Missed (FGM)<br>Extra Points for Field Gold Made >59 yards</td>
         <td>1<br>0.1 (10 Yards = 1 Point)<br>-1<br>1</td>
       </tr>
+   <tr>
+    <td>Defense</td>
+    <td>Passing Yards (PY)<br>Interception Thrown (INT)<br>TD Pass (PTD)<br>2 Point Conversion (2PC)<br>Extra Points when Total Passing Yards >324</td>
+    <td>.04<br>-2<br>4<br>2<br>2</td>
+    </tr>
     </table>
 
