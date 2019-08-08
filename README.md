@@ -75,7 +75,7 @@ In order to change an existing rule, add a new rule, or change a scoring setting
 ### Entry Fee ###
 - The Entry Fee for the league is $50 per team.
 - The Entry Fee for Startup Draft must be paid at least 3-Hours prior to the startup draft. 
-- Must be paid at minimum 2 weeks before the rookie draft in all years following the startup field. 
+- League Dues must be paid at minimum 2 weeks before the rookie draft in all years following the startup field. 
 - Dues for the 2nd league year are due by week 6 of the regular season of the startup year ($50).
 - All dues will be paid to the treasurer via the methods outlined below.
 
