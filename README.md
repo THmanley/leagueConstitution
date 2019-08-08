@@ -89,7 +89,7 @@ If a team does not pay their dues by the designated date they are not eligible t
 
 ### Methods of Payment for Dues ###
 - The Entry Fees must be paid to the League Treasurer (listed above) in one of the methods below. They are listed in order of preference. 
-1) Venmo: @Rocker-Koche
+1) Venmo: @Roger-Koche
 2) Zelle: 6317421006
 3) Cash App: 6317421006
 
@@ -145,6 +145,7 @@ If a team does not pay their dues by the designated date they are not eligible t
 - Format of Draft TBD by league vote.
 - Trading draft picks is allowed during the startup draft (if snake draft)
 - If a team misses their pick the best available player based on [these rankings](https://www.fantasypros.com/nfl/rankings/dynasty-overall.php) will be taken for them.
+- All rookies will be available in the startup draft. As such, there will be no dedicated rookie draft in the startup year. 
 
 <br><br>
 
