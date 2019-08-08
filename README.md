@@ -136,14 +136,14 @@ If a team does not pay their dues by the designated date they are not eligible t
 - During the offseason trading is still allowed.
 - Trade deadline begins at the end of NFL Week 17.
 - Draft picks up to 3 years in the future are tradable.
-- Teams must pay dues for any year they trade draft picks in if not already paid by yearly advance.
+- Teams must pay dues for any year they trade draft picks in, if not already paid by yearly advance.
 
 <br><br>
 
 ## __Section VI - Startup Draft__ ##
 - Will take place (Insert Date Here) on Fleaflicker.
-- Snake format (1st to 12th then 12th to 1st).
-- Trading draft picks is allowed during the startup draft.
+- Format of Draft TBD by league vote.
+- Trading draft picks is allowed during the startup draft (if snake draft)
 - If a team misses their pick the best available player based on [these rankings](https://www.fantasypros.com/nfl/rankings/dynasty-overall.php) will be taken for them.
 
 <br><br>
