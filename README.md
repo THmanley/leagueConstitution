@@ -236,4 +236,19 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
 <td>2<br>1<br>6 (1.5 per)<br>3<br>6<br>10<br>7<br>5<br>2<br>0<br>-4<br>-5<br>-8</td>
     </tr>
     </table>
+<br><br>
 
+## __Section XI - League Member Info__ ##
+
+- Troy Manley: BigTroyzinho@gmail.com
+- Ben Caloway: BenCaloway@gmail.com
+- Roger Koche: Roger@Koche.com
+- Tanner Manley: Tanner.Manley28@gmail.com
+- Dave Harley: dharleyv23@gmail.com
+- Cody Goss: Cody.Goss1@gmail.com
+- Alec Brown:
+- Kevin Kure: ktkure10@gmail.com
+- Anthony Miller: AMill11006@gmail.com
+- Sean Casmey: sscasmey09@ole.augie.edu
+- Andrew Skaggs: Andrew.J.Skaggs@gmail.com
+- Bryan Boillot: bboillot@gmail.com
