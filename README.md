@@ -33,18 +33,20 @@ __Troy Manley__
 
 <br>
 
-### Co-Commissioners ###
-__Odell Beckham Jr.__
-> (877) 393-4448
+### Co-Commissioner ###
+__Ben Caloway__
+> (847) 477-2631
 
-> OBJesus@onehandcatches.com 
+> BenCaloway@gmail.com 
 
 <br>
 
-__Saquan Barkley__
-> (800) 605-3369
+### Treasurer/Co-Commissioner ###
 
-> TheQuadfather@demthighs.com
+__Roger Koche__
+> (631) 742-1006
+
+> Roger@Koche.com
 
 <br>
 
