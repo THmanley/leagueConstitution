@@ -246,7 +246,7 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
 - Tanner Manley: Tanner.Manley28@gmail.com
 - Dave Harley: dharleyv23@gmail.com
 - Cody Goss: Cody.Goss1@gmail.com
-- Alec Brown:
+- Alec Brown:BrownAlec35@yahoo.com
 - Kevin Kure: ktkure10@gmail.com
 - Anthony Miller: AMill11006@gmail.com
 - Sean Casmey: sscasmey09@ole.augie.edu
