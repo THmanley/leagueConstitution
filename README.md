@@ -20,6 +20,7 @@
    - [Championship](#championship-bracket)
    - [Consolation](#consolation-bracket)
 - [Scoring](#section-x---scoring)
+- [League Member Info](#section-xi---league-member-info)
 <br>
 <br>
 
