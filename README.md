@@ -229,8 +229,12 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
       </tr>
    <tr>
     <td>Defense</td>
-    <td>Passing Yards (PY)<br>Interception Thrown (INT)<br>TD Pass (PTD)<br>2 Point Conversion (2PC)<br>Extra Points when Total Passing Yards >324</td>
-    <td>.04<br>-2<br>4<br>2<br>2</td>
+    
+
+<td>Interception<br>Sack<br>Points per 4 Fumbles Recovered <br>Defensive Safety<br>Defensive Touchdown<br> Points Allowed Exactly 0<br> Points Allowed Between 1-6<br> Points Allowed Between 7-11<br> Points Allowed Between 12-15<br> Points Allowed Between 16-27<br> Points Allowed Between 28-36<br> Points Allowed Between 37-42<br> Points Allowed Greater 43+</td>
+    
+
+<td>2<br>1<br>6 (1.5 per)<br>3<br>6<br>10<br>7<br>5<br>2<br>0<br>-4<br>-5<br>-8</td>
     </tr>
     </table>
 
