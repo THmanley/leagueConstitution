@@ -177,7 +177,6 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
 ### Regular Season Schedule ###
 - The regular season lasts from NFL Regular Season week 1 to week 13.
 - Teams will play their division rivals twice per season.
-- Teams will play their first and last two matches against the other teams in their division.
 - The rest of the matches will be randomly determined at the beginning of the season.
 - Playoffs begin week 14 with the championship game occuring week 16.
 
