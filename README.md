@@ -142,9 +142,10 @@ If a team does not pay their dues by the designated date they are not eligible t
 <br><br>
 
 ## __Section VI - Startup Draft__ ##
-- Will take place (Insert Date Here) on Fleaflicker.
-- Format of Draft TBD by league vote.
-- Trading draft picks is allowed during the startup draft (if snake draft)
+- Will take place (Insert Date Here) on Fleaflicker Platform.
+- Format of Draft will be a snake.
+- Draft order will be determined utilizing http://betterfantasydraft.com/
+- Trading draft picks is allowed during the startup draft 
 - If a team misses their pick the best available player based on [these rankings](https://www.fantasypros.com/nfl/rankings/dynasty-overall.php) will be taken for them.
 - All rookies will be available in the startup draft. As such, there will be no dedicated rookie draft in the startup year. 
 
