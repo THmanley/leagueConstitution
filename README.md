@@ -64,7 +64,7 @@ The Commissioner can nominate up to two Co-Commissioners who will then require a
 The commissioner is the final authority on all league matters, excluding disputes with a clear conflict of interest. In situations where a league vote is put forth and the outcome is a tie the commissioner will always have the tiebreaking vote. When an issue arrises where a clear conflict of interest is apparant the matter will be handled by the co-commissioners. If they disagree on what action should be taken the matter will be put to a league vote (the vote will exclude anyone with a conflict of interest).
 <br>
 ### Rule Changes ###
-In order to change an existing rule, add a new rule, or change a scoring setting, a vote must be called and receive a majority (in a tie the commissioner has the tiebreaking vote), the commissioner has the option to veto a rule change in which case it can be voted on again and receive a 2/3 majority to pass without commissioner consent.
+In order to change an existing rule, add a new rule, or change a scoring setting, a vote must be called and receive a majority (in a tie the commissioner has the tiebreaking vote), the commissioner has the option to veto a rule change in which case it can be voted on again and receive a 2/3 majority to pass without commissioner consent. All rule change voting will happen in the time period between the conclusion of the league championship and next season's rookie draft. 
 <br>
 ### Collusion ###
 **Collusion will not be tolerated. A trade will be vetoed if there is evident collusion and the guilty teams will be barred from playoffs and forfeit any dues paid for the season**
@@ -76,14 +76,14 @@ In order to change an existing rule, add a new rule, or change a scoring setting
 ### Entry Fee ###
 - The Entry Fee for the league is $50 per team.
 - The Entry Fee for Startup Draft must be paid at least 3-Hours prior to the startup draft. 
-- League Dues must be paid at minimum 2 weeks before the rookie draft in all years following the startup field. 
+- League Dues must be paid at minimum 1 week before the rookie draft in all years following the startup field. 
 - Dues for the 2nd league year are due by week 6 of the regular season of the startup year ($50).
 - All dues will be paid to the treasurer via the methods outlined below.
 
 ### Yearly Dues ###
 
-- After the first year there is a yearly total of $50 that must be paid 2 weeks before the start of the yearly rookie draft.
-- Starting from the beginning of the second year, which had been paid for by week 5 of the start up season, the $50 dues will be paying for your entry in the following season. 
+- After the first year there is a yearly total of $50 that must be paid 1 week before the start of the yearly rookie draft.
+- Starting from the beginning of the second year, which had been paid for by week 6 of the start up season, the $50 dues will be paying for your entry in the following season. 
 
 ### Penalties ###
 If a team does not pay their dues by the designated date they are not eligible to participate in the draft (startup or rookie) it will be up to the commissioners discretion on whether or not to replace them.
@@ -115,8 +115,8 @@ If a team does not pay their dues by the designated date they are not eligible t
    FLEX (RB/WR/TE) | 1 | No Limit
    D/ST | 1 | No Limit
    K | 1 | No Limit
-   BE | 10 | No Limit
-   IR | 1 | No Limit
+   Bench | 10 | No Limit
+   IR | 1 | 1
 
 <br><br>
 
@@ -129,15 +129,15 @@ If a team does not pay their dues by the designated date they are not eligible t
 - Per transaction fee is $0
 - FAAB dollars are not tradeable
 - There is a two Day waiting period for waivers to clear
-- Free agency locks a week after the regular championship ends (NFL Week 16).
+- Free agency locks a week after the league championship ends (NFL Week 16).
 
 
 ### Trades ###
 - Trades will be processed right away, if collusion is suspected the matter will be put to a vote.
 - During the offseason trading is still allowed.
-- Trade deadline begins at the end of NFL Week 17.
+- Trade deadline begins at the end of NFL Week 13.
 - Draft picks up to 3 years in the future are tradable.
-- Teams must pay dues for any year they trade draft picks in, if not already paid by yearly advance.
+- Teams must pay dues for any year they trade draft picks in, if not already paid by normal yearly advance.
 
 <br><br>
 
@@ -187,6 +187,7 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
 - East Divisions will have the following teams: 1, 3, 5, 7
 - West Divisions will have the following teams: 2, 4, 6, 8
 - Teams will not switch between between conferences, just be realigned to the East/West divisions within each conference. 
+
 
 <br><br>
 
