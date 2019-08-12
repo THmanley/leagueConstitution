@@ -149,6 +149,20 @@ If a team does not pay their dues by the designated date they are not eligible t
 - If a team misses their pick the best available player based on [these rankings](https://www.fantasypros.com/nfl/rankings/dynasty-overall.php) will be taken for them.
 - All rookies will be available in the startup draft. As such, there will be no dedicated rookie draft in the startup year. 
 
+- Startup Draft Order as determined per methods outlined above.
+   1) Roger Koche
+   2) Anthony Miller
+   3) Dave Harley
+   4) Cody Goss
+   5) Troy Manley
+   6) Tanner Manley
+   7) Andrew Skaggs
+   8) Bryan Boillot
+   9) Sean Casmey
+   10) Ben Caloway
+   11) Alec Brown
+   12) Kevin Kure
+
 <br><br>
 
 ## __Section VII - Rookie Draft__ ##
