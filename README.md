@@ -220,18 +220,18 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
 <table>
     <tr>
     <td>Passing</td>
-    <td>Passing Yards (PY)<br>Interception Thrown (INT)<br>TD Pass (PTD)<br>2 Point Conversion (2PC)<br>Extra Points when Total Passing Yards Equal 350+</td>
+    <td>Passing Yards (PY)<br>Interception Thrown (INT)<br>TD Pass (PTD)<br>2 Point Conversion (2PC)<br>Extra Points when Total Passing Yards Equal 325+</td>
     <td>.04<br>-2<br>4<br>2<br>2</td>
     </tr>
      <tr>
         <td>Rushing</td>
-        <td>Rushing Yards (RY)<br>Rushing TD (RTD)<br>2 Point Conversion (2PR)<br>Extra Points when Total Rushing Yards Equal 175+</td>
+        <td>Rushing Yards (RY)<br>Rushing TD (RTD)<br>2 Point Conversion (2PR)<br>Extra Points when Total Rushing Yards Equal 150+</td>
         <td>0.1<br>6<br>2<br>2</td>
       </tr>
       <tr>
         <td>Receiving</td>
-        <td>Receiving Yards (REY)<br>Receiving TD (RETD)<br>2 Point Conversion (2PRE)<br>Each Reception (REC)<br>Extra Points when Total Receiving Yars Equals 175+</td>
-        <td>0.1<br>6<br>2<br>1<br>1</td>
+        <td>Receiving Yards (REY)<br>Receiving TD (RETD)<br>2 Point Conversion (2PRE)<br>Each Reception (REC)<br>Extra Points when Total Receiving Yars Equals 150+</td>
+        <td>0.1<br>6<br>2<br>1<br>2</td>
       </tr>
       <tr>
         <td>Miscellaneous </td>
