@@ -112,10 +112,10 @@ If a team does not pay their dues by the designated date they are not eligible t
    RB | 2 | No Limit
    WR | 2 | No Limit
    TE | 1 | No Limit
-   FLEX (RB/WR/TE) | 3 | No Limit
+   FLEX (RB/WR/TE) | 2 | No Limit
    D/ST | 1 | No Limit
    K | 1 | No Limit
-   Bench | 11 | No Limit
+   Bench | 12 | No Limit
    IR | 1 | 1
 
 <br><br>
