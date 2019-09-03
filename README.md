@@ -155,7 +155,7 @@ If a team does not pay their dues by the designated date they are not eligible t
    3) Dave Harley
    4) Cody Goss
    5) Troy Manley
-   6) Tanner Manley
+   6) Jake Spencer
    7) Andrew Skaggs
    8) Bryan Boillot
    9) Sean Casmey
@@ -260,7 +260,7 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
 - Troy Manley: BigTroyzinho@gmail.com
 - Ben Caloway: BenCaloway@gmail.com
 - Roger Koche: Roger@Koche.com
-- Tanner Manley: Tanner.Manley28@gmail.com
+- Jake Spencer: jmspencer1991@gmail.com
 - Dave Harley: dharleyv23@gmail.com
 - Cody Goss: Cody.Goss1@gmail.com
 - Alec Brown:BrownAlec35@yahoo.com
