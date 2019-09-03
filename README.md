@@ -225,12 +225,12 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
     </tr>
      <tr>
         <td>Rushing</td>
-        <td>Rushing Yards (RY)<br>Rushing TD (RTD)<br>2 Point Conversion (2PR)<br>Extra Points when Total Rushing Yards Equal 150+</td>
+        <td>Rushing Yards (RY)<br>Rushing TD (RTD)<br>2 Point Conversion (2PR)<br>Extra Points when Total Rushing Yards Equal 175+</td>
         <td>0.1<br>6<br>2<br>2</td>
       </tr>
       <tr>
         <td>Receiving</td>
-        <td>Receiving Yards (REY)<br>Receiving TD (RETD)<br>2 Point Conversion (2PRE)<br>Each Reception (REC)<br>Extra Points when Total Receiving Yars Equals 150+</td>
+        <td>Receiving Yards (REY)<br>Receiving TD (RETD)<br>2 Point Conversion (2PRE)<br>Each Reception (REC)<br>Extra Points when Total Receiving Yars Equals 175+</td>
         <td>0.1<br>6<br>2<br>1<br>1</td>
       </tr>
       <tr>
