@@ -129,7 +129,7 @@ If a team does not pay their dues by the designated date they are not eligible t
 - Per transaction fee is $0
 - FAAB dollars are not tradeable
 - There is a two Day waiting period for waivers to clear
-- Free agency locks a week after the league championship ends (NFL Week 17).
+- Free agency locks a week after the league championship ends (12/31/19 @ 4AM MST).
 
 
 ### Trades ###
@@ -138,6 +138,7 @@ If a team does not pay their dues by the designated date they are not eligible t
 - Trade deadline begins at the end of NFL Week 13.
 - Draft picks up to 3 years in the future are tradable.
 - Teams must pay dues for any year they trade draft picks in, if not already paid by normal yearly advance.
+- Trade deadline will mimic that of the NFL (10/29/19 @ 4AM MDT)
 
 <br><br>
 
