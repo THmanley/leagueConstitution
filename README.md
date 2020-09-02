@@ -139,7 +139,7 @@ If a team does not pay their dues by the designated date they are not eligible t
 - Per transaction fee is $0
 - FAAB dollars are not tradeable
 - There is a two Day waiting period for waivers to clear
-- There is a limit of waiver/free agent 3 transactions per week
+- There is a limit of waiver/free agent 4 transactions per week
 - Free agency locks a week after the league championship ends (12/31/19 @ 4AM MST).
 
 
@@ -190,6 +190,8 @@ If a team does not pay their dues by the designated date they are not eligible t
 - The draft will follow a linear format just like the NFL draft (1.01 has 2.01, 3.01, 4.01 etc.)
 - Trading draft picks is allowed during the rookie draft
 - If a team misses their pick the best available player based on [these rankings](https://www.fantasypros.com/nfl/rankings/rookies.php) will be taken for them
+- Teams will cut down rosters within 48 hours of the drafts conclusion. If not completed, after 24 hours all draft picks will become available as free agents subject to waivers. 
+- Rookie draft will take place offline via a conference call (with zoom if possible)
 
 __Any undrafted rookie will be treated as a common FA. If they are unavailable in the database you must message the commissioner or co-commissioners to claim them and leave a spot open on your roster once they confirm your request. If no spot is open when the player becomes available then there will be no priority given to the team that claimed them__
 
