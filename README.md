@@ -126,7 +126,7 @@ If a team does not pay their dues by the designated date they are not eligible t
    D/ST | 1 | No Limit
    K | 1 | No Limit
    Bench | 12 | No Limit
-   IR | 1 | 1
+   IR | 0 | 2
 
 <br><br>
 
@@ -181,8 +181,8 @@ If a team does not pay their dues by the designated date they are not eligible t
 
 ### Rookie Draft Order ###
 - The draft order for the rookie draft will be determined based on both regular and post-season results
-- Picks 1-6 will be assigned in inverse order of the regular season standings.
-- Picks 7-12 will be assigned in inverse order of the postseason standings
+- Picks 1-5 will be assigned in inverse order of the regular season standings.
+- Picks 6-12 will be assigned in inverse order of the postseason standings
 
 ### Rookie Draft Settings ###
 - There will be 4 rounds of the rookie draft.
@@ -190,7 +190,7 @@ If a team does not pay their dues by the designated date they are not eligible t
 - The draft will follow a linear format just like the NFL draft (1.01 has 2.01, 3.01, 4.01 etc.)
 - Trading draft picks is allowed during the rookie draft
 - If a team misses their pick the best available player based on [these rankings](https://www.fantasypros.com/nfl/rankings/rookies.php) will be taken for them
-- Teams will cut down rosters within 48 hours of the drafts conclusion. If not completed, after 24 hours all draft picks will become available as free agents subject to waivers. 
+- Teams will cut down rosters within 24 hours of the drafts conclusion. If not completed, after 24 hours all draft picks will become available as free agents subject to waivers. 
 - Rookie draft will take place offline via a conference call (with zoom if possible)
 
 __Any undrafted rookie will be treated as a common FA. If they are unavailable in the database you must message the commissioner or co-commissioners to claim them and leave a spot open on your roster once they confirm your request. If no spot is open when the player becomes available then there will be no priority given to the team that claimed them__
@@ -201,20 +201,17 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
 
 ### Divisions ###
 
-- There will be four divisions that teams will be randomly assigned based on Conference (Mountain/Plains) upon joining the league.
-- Divisions will follow the following naming: Mountains East, Mountains West, Plains East, Plains West. 
+- There will be two conferences.
+- Conferences will follow the following naming: Mountains and Plains. 
 
 ### Regular Season Schedule ###
-- The regular season lasts from NFL Regular Season week 1 to week 13.
-- Teams will play their division rivals twice per season.
+- The regular season lasts from NFL Regular Season week 1 to week 14.
+- Teams will play their conference rivals twice per season.
 - The rest of the matches will be randomly determined at the beginning of the season.
-- Playoffs begin week 14 with the championship game occuring week 16.
+- Playoffs begin week 15 with the championship game occuring week 17.
 
 ### Division Realignment ###
-- Mountains and Plains Conference Divisions will be re-aligned following every season based on the final standings of the season prior. 
-- East Divisions will have the following teams: 1, 3, 5, 7
-- West Divisions will have the following teams: 2, 4, 6, 8
-- Teams will not switch between between conferences, just be realigned to the East/West divisions within each conference. 
+- Teams will not switch between between conferences, unless the league votes for realignment. 
 
 
 <br><br>
@@ -222,9 +219,9 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
 ## __Section IX - Playoffs__ ##
 
 ### Championship Bracket ###
-- The winner of each division will be awarded a play off birth and seeds determined by Overall Record.
-- The 5th seed team will be the team with the best record that did not win their division. 
-- The final playoff spot will be awarded to the team with the highest points scored out of the remaining teams.
+- The top 2 teams of each conference will be awarded a play off birth and seeds determined by Overall Record.
+- The 5th & 6th seed teams will be the teams with the best records that did not get top-2 in their conference (both could be from the same conference). 
+- The 7th playoff spots will be awarded to the team with the highest points scored out of the remaining teams.
 
 
 <br><br>
