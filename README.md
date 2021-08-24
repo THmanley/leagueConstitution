@@ -197,9 +197,9 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
 
 <br><br>
 
-## __Section VIII - Divisions & Schedule__ ##
+## __Section VIII - Conferences & Schedule__ ##
 
-### Divisions ###
+### Conferences ###
 
 - There will be two conferences.
 - Conferences will follow the following naming: Mountains and Plains. 
@@ -210,7 +210,7 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
 - The rest of the matches will be randomly determined at the beginning of the season.
 - Playoffs begin week 15 with the championship game occuring week 17.
 
-### Division Realignment ###
+### Conference Realignment ###
 - Teams will not switch between between conferences, unless the league votes for realignment. 
 
 
