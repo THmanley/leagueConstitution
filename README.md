@@ -149,7 +149,6 @@ If a team does not pay their dues by the designated date they are not eligible t
 - Trade deadline begins at the end of NFL Week 13.
 - Draft picks up to 3 years in the future are tradable.
 - Teams must pay dues for any year they trade draft picks in, if not already paid by normal yearly advance.
-- Trade deadline will mimic that of the NFL (10/29/19 @ 4AM MDT)
 
 <br><br>
 
