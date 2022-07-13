@@ -30,7 +30,7 @@
 __Troy Manley__
 > (847) 736-5359
 
-> UnleRicoTheCommish@gmail.com
+> UncleRicoTheCommish@gmail.com
 
 <br>
 
