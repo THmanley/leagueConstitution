@@ -140,7 +140,7 @@ If a team does not pay their dues by the designated date they are not eligible t
 - FAAB dollars are not tradeable
 - There is a two Day waiting period for waivers to clear
 - There is a limit of waiver/free agent 4 transactions per week
-- Free agency locks a week after the league championship ends (12/31/19 @ 4AM MST).
+- Free agency locks a week after the league championship ends.
 
 
 ### Trades ###
