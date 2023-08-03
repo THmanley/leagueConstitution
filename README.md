@@ -7,7 +7,7 @@
    - [Commissioner Powers and Arbitration Process](#commissioner-site-powers)
 - [League Dues](#section-ii---league-dues)
 - [Payout](#section-iiia---payout)
-- [Payout ProV1 Rule](#section-iiib---payout-prov1-rule)
+- [Payout ProV1 Rule](#section-iiib---payout-ProV1-rule)
 - [Rosters](#section-iv---rosters)
 - [Free Agency & Trading](#section-v---free-agency--trading)
   - [Free Agency](#free-agency)
@@ -113,7 +113,7 @@ If a team does not pay their dues by the designated date they are not eligible t
 
 ## __Section IIIb - Payout Pro V1 Rule__ ##
 - The ProV1 Rule: 4th place finisher is awarded a box (12) of Titlelist ProV1 golf balls (or equivalent of the 4th place finisher's choice); the person that finishes in 9th place for the regular season, as determined by fleaflicker standings, is purchasing said box of golf balls for the 4th place finisher. The 2 owners in question must coordinate this between themselves.
-- 
+ 
 <br><br>
 
 ## __Section IV - Rosters__ ##
