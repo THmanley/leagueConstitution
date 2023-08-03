@@ -7,7 +7,7 @@
    - [Commissioner Powers and Arbitration Process](#commissioner-site-powers)
 - [League Dues](#section-ii---league-dues)
 - [Payout](#section-iiia---payout)
-- [Payout ProV1 Rule](#section-iiib---pro-v1-rule)
+- [ProV1 Rule](#section-iiib---pro-v1-rule)
 - [Rosters](#section-iv---rosters)
 - [Free Agency & Trading](#section-v---free-agency--trading)
   - [Free Agency](#free-agency)
