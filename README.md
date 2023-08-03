@@ -6,7 +6,8 @@
    - [Co-Commissioners](#co-commissioners)
    - [Commissioner Powers and Arbitration Process](#commissioner-site-powers)
 - [League Dues](#section-ii---league-dues)
-- [Payout](#section-iii---payout)
+- [Payout](#section-iiia---payout)
+- [Payout ProV1 Rule](#section-iiib---payout-prov1-rule)
 - [Rosters](#section-iv---rosters)
 - [Free Agency & Trading](#section-v---free-agency--trading)
   - [Free Agency](#free-agency)
@@ -28,7 +29,6 @@
 
 ### League Commissioner ###
 __Troy Manley__
-> (847) 736-5359
 
 > UncleRicoTheCommish@gmail.com
 
@@ -36,7 +36,6 @@ __Troy Manley__
 
 ### Co-Commissioner ###
 __Ben Caloway__
-> (847) 477-2631
 
 > BenCaloway@gmail.com 
 
@@ -45,7 +44,6 @@ __Ben Caloway__
 ### Treasurer/Co-Commissioner ###
 
 __Roger Koche__
-> (631) 742-1006
 
 > Roger@Koche.com
 
@@ -54,7 +52,6 @@ __Roger Koche__
 ### Honorary Players Association President  ###
 
 __Anthony Miller__
-> (309) 883-0772
 
 > AMill11006@gmail.com
 
@@ -106,11 +103,17 @@ If a team does not pay their dues by the designated date they are not eligible t
 
 <br><br>
 
-## __Section III - Payout__ ##
-- 1st Place: $375 
-- 2nd Place: $175 
-- 3rd Place: $50 
+## __Section IIIa - Payout__ ##
+- 1st Place: $350 
+- 2nd Place: $150 
+- 3rd Place: $50
+- Most overall points regular season: $50
+  
+<br><br>
 
+## __Section IIIb - Payout Pro V1 Rule__ ##
+- The ProV1 Rule: 4th place finisher is awarded a box (12) of Titlelist ProV1 golf balls (or equivalent of the 4th place finisher's choice); the person that finishes in 9th place for the regular season, as determined by fleaflicker standings, is purchasing said box of golf balls for the 4th place finisher. The 2 owners in question must coordinate this between themselves.
+- 
 <br><br>
 
 ## __Section IV - Rosters__ ##
@@ -180,8 +183,8 @@ If a team does not pay their dues by the designated date they are not eligible t
 
 ### Rookie Draft Order ###
 - The draft order for the rookie draft will be determined based on both regular and post-season results
-- Picks 1-5 will be assigned in inverse order of the regular season standings.
-- Picks 6-12 will be assigned based on optiumum points for. 
+- Picks 1-6 will be assigned in inverse order of the regular season standings.
+- Picks 7-12 will be assigned based on optiumum points for. 
 
 ### Rookie Draft Settings ###
 - There will be 4 rounds of the rookie draft.
@@ -214,9 +217,8 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
 
 ### Championship Bracket ###
 - The top 6 teams will be awarded a play off birth and seeds determined by Overall Record.
-- The 7th playoff spots will be awarded to the team with the highest points scored out of the remaining teams.
-- The Number 1 overall seed will get a first round bye in the playoffs. 
-- The championship game will take course over the place of 2 weeks. 
+- The Number 1 & 2 overall seeds will get a first round bye in the playoffs. 
+- The championship game will take course over the place of 1 week. 
 
 
 <br><br>
@@ -263,7 +265,7 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
 
 ## __Section XI - League Member Info__ ##
 
-- Troy Manley: BigTroyzinho@gmail.com
+- Troy Manley: unclericothecommish@gmail.com
 - Ben Caloway: BenCaloway@gmail.com
 - Roger Koche: Roger@Koche.com
 - Jake Spencer: jmspencer1991@gmail.com
