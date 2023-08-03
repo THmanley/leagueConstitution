@@ -3,7 +3,7 @@
 
 - [League Governence](#section-i---league-governence)
    - [Commissioner](#league-commissioner)
-   - [Co-Commissioners](#co-commissioners)
+   - [Co-Commissioners](#co-commissioner)
    - [Commissioner Powers and Arbitration Process](#commissioner-site-powers)
 - [League Dues](#section-ii---league-dues)
 - [Payout](#section-iiia---payout)
@@ -14,7 +14,7 @@
   - [Trading](#trades)
 - [Startup Draft](#section-vi---startup-draft)
 - [Rookie Draft](#section-vii---rookie-draft)
-- [Divisions & Schedule](#section-viii---divisions--schedule)
+- [Conferences & Schedule](#section-viii---conferences--schedule)
    - [Divisions](#divisions)
    - [Schedule](#regular-season-schedule)
 - [Playoffs](#section-ix---playoffs)
