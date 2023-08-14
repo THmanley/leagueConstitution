@@ -194,6 +194,7 @@ If a team does not pay their dues by the designated date they are not eligible t
 - If a team misses their pick the best available player based on [these rankings](https://www.fantasypros.com/nfl/rankings/rookies.php) will be taken for them
 - Teams will cut down rosters within 24 hours of the drafts conclusion. If not completed, after 24 hours all draft picks will become available as free agents subject to waivers. 
 - Rookie draft will take place offline via a conference call (with zoom if possible)
+- Teams rosters need to be legal before the start of the rookie draft. All players on IR must be IR eligible. Ineligible players on IR must be moved to active roster or cut prior to the start of the rookie draft. 
 
 __Any undrafted rookie will be treated as a common FA. If they are unavailable in the database you must message the commissioner or co-commissioners to claim them and leave a spot open on your roster once they confirm your request. If no spot is open when the player becomes available then there will be no priority given to the team that claimed them__
 
