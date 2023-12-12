@@ -142,7 +142,7 @@ If a team does not pay their dues by the designated date they are not eligible t
 - Per transaction fee is $0
 - FAAB dollars are not tradeable
 - There is a two Day waiting period for waivers to clear
-- There is a limit of waiver/free agent 4 transactions per week
+- There is a limit of waiver/free agent 6 transactions per week
 - Free agency locks a week after the league championship ends.
 
 
